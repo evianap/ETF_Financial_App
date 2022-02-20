@@ -6,7 +6,7 @@ SQL Finanaical Application to invest through an ETF
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://github.com/evianap/ETF_Financial_App/main/Images/7-4-challenge-image.png" alt="ETF">
+    <img src="https://github.com/evianap/ETF_Financial_App/blob/main/images/7-4-challenge-image.png" alt="ETF">
   </a>
 
   <h3 align="center">ETF_Financial_App</h3>
@@ -44,11 +44,11 @@ SQL Finanaical Application to invest through an ETF
 
 <p>Launching Voila<p/>
 
-<p align="center"><img src="https://github.com/evianap/ETF_Financial_App/blob/main/Images/Volia_Terminal_Screenshot.png" alt="Voila"><p/>
+<p align="center"><img src="https://github.com/evianap/ETF_Financial_App/blob/main/images/Voila_Terminal_Screenshot.png" alt="Voila"><p/>
 
 <p>Browser deployed app video below<p/>
 
-https://github.com/evianap/ETF_Financial_App/blob/main/Images/Voila_Recording.mov
+https://github.com/evianap/ETF_Financial_App/blob/main/images/Voila_Recording.mov
 
 
 
